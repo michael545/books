@@ -7,7 +7,7 @@ This repository contains a structured, categorized database of books I have read
 - Each folder contains a `metadata.toml` file listing books and their metadata (title, author, year, status, notes).
 - PDF files are not included in the repository, only metadata and organizational files.
 
-## Example Categories
+## Categories I Read
 - Biotech
 - Programming
 - Electronics
@@ -23,4 +23,4 @@ This repository contains a structured, categorized database of books I have read
 
 ---
 
-**Note:** This repository is for personal and educational use. No copyrighted book files are included.
+**Imortant:** This repository is for personal and educational use. No copyrighted books are included.
