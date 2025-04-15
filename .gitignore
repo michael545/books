@@ -1,0 +1,3 @@
+# Ignore PDF files only in the root directory
+/*.pdf
+*.docx

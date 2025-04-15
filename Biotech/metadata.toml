@@ -1,0 +1,120 @@
+# Biotech Books Metadata
+
+[[book]]
+title = "A Beginner's Guide to Clinical Trials"
+author = "Unknown"
+year = "Unknown"
+status = "To Read"
+notes = "Introduction to clinical trials."
+
+[[book]]
+title = "Fundamentals of Clinical Trials"
+author = "Unknown"
+year = "Unknown"
+status = "To Read"
+notes = "Detailed guide on clinical trials."
+
+[[book]]
+title = "Lessons on Biotech Due Diligence"
+author = "Unknown"
+year = "Unknown"
+status = "To Read"
+notes = "Focuses on biotech investment."
+
+[[book]]
+title = "A_Beginners_Guide_to_Clinical_Trials.pdf"
+author = "Unknown"
+year = "Unknown"
+status = "Unknown"
+notes = "Added from root folder."
+
+[[book]]
+title = "Fundamentals-of-Clinical-Trials.pdf"
+author = "Unknown"
+year = "Unknown"
+status = "Unknown"
+notes = "Added from root folder."
+
+[[book]]
+title = "The Gene: An Intimate History"
+author = "Siddhartha Mukherjee"
+year = "2016"
+status = "To Read"
+notes = "A comprehensive and engaging history of genetics and gene manipulation."
+
+[[book]]
+title = "Rewriting Life: How Genetic Engineering Is Revolutionizing Medicine, Agriculture, and the Environment"
+author = "Michael Specter"
+year = "2009"
+status = "To Read"
+notes = "Overview of the early promises and challenges of genetic engineering."
+
+[[book]]
+title = "CRISPR: A Crack in Creation"
+author = "Jennifer A. Doudna, Samuel H. Sternberg"
+year = "2017"
+status = "To Read"
+notes = "Personal and scientific account of CRISPR gene editing."
+
+[[book]]
+title = "Principles of Gene Manipulation and Genomics"
+author = "Sandy B. Primrose, Richard M. Twyman"
+year = "2013"
+status = "To Read"
+notes = "Comprehensive textbook on gene manipulation techniques."
+
+[[book]]
+title = "Gene Therapy: Principles and Applications"
+author = "T. Friedmann, J. A. Wolff, W. C. Herderschee (eds.)"
+year = "2017"
+status = "To Read"
+notes = "In-depth look at gene therapy principles and applications."
+
+[[book]]
+title = "Cellular and Molecular Immunology"
+author = "Abul K. Abbas, Andrew H. H. Lichtman, Shiv Pillai"
+year = "2021"
+status = "To Read"
+notes = "Comprehensive immunology textbook for cell and gene therapy."
+
+[[book]]
+title = "Bioprocess Engineering: Basic Concepts"
+author = "Michael L. Shuler, Fikret Kargi"
+year = "2017"
+status = "To Read"
+notes = "Foundational textbook on bioreactor design and operation."
+
+[[book]]
+title = "Bioprocessing for Value-Added Products from Renewable Resources: New Technologies and Applications"
+author = "Ashok Pandey, Christian Larroche, Samir Kumar Khanal, Eldon R. Rene (eds.)"
+year = "2017"
+status = "To Read"
+notes = "Covers large-scale production in bioreactors."
+
+[[book]]
+title = "Cell Culture Technology for Pharmaceutical and Cell-Based Therapies"
+author = "Sadettin S. Ozturk, Wei-Shou Hu (eds.)"
+year = "2006"
+status = "To Read"
+notes = "Focuses on large-scale cell culture for pharmaceutical production."
+
+[[book]]
+title = "Mammalian Cell Biotechnology: Essential Technologies"
+author = "Michael Butler, Mauro Al-Rubeai (eds.)"
+year = "2016"
+status = "To Read"
+notes = "Technologies for culturing mammalian cells and bioreactor systems."
+
+[[book]]
+title = "The Pharmagellan Guide to Biotech Forecasting and Valuation"
+author = "Andrew Matthews, Seth Robey"
+year = "2017"
+status = "To Read"
+notes = "Bible for biotech CFOs"
+
+[[book]]
+title = "The Pharmagellan Guide to Analyzing Biotech Clinical Trials"
+author = "Frank S. David MD PhD"
+year = "2022"
+status = "To Read"
+notes = "biotech clinical trials"

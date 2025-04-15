@@ -1,0 +1,29 @@
+# Electronics Books Metadata
+
+[[book]]
+title = "Make Electronics"
+author = "Charles Platt"
+year = "2009"
+status = "To Read"
+notes = "Hands-on guide to electronics."
+
+[[book]]
+title = "Make More Electronics"
+author = "Charles Platt"
+year = "2014"
+status = "To Read"
+notes = "Advanced guide to electronics."
+
+[[book]]
+title = "The Art of Electronics"
+author = "Paul Horowitz, Winfield Hill"
+year = "2015"
+status = "To Read"
+notes = "Comprehensive electronics reference."
+
+[[book]]
+title = "A Designer's guide to Instrumentation Amplifiers"
+author = "Analog Devices or Texas Instruments"
+year = "Unknown"
+status = "Read"
+notes = "Comprehensive guide to instrumentation amplifier design."

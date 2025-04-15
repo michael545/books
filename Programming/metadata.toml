@@ -1,0 +1,57 @@
+# Programming Books Metadata
+
+[[book]]
+title = "Think Python 2"
+author = "Allen B. Downey"
+year = "2015"
+status = "Read"
+notes = "Introduction to Python programming."
+
+[[book]]
+title = "Quantum Computing Since Democritus"
+author = "Scott Aaronson"
+year = "2013"
+status = "Read"
+notes = "Explores quantum computing concepts."
+
+[[book]]
+title = "Python Cookbook"
+author = "David Beazley, Brian K. Jones"
+year = "2013"
+status = "To Read"
+notes = "Comprehensive collection of Python recipes."
+
+[[book]]
+title = "Python Tricks: A Buffet of Awesome Python Features"
+author = "Dan Bader"
+year = "2017"
+status = "To Read"
+notes = "Tips and tricks for writing better Python code."
+
+[[book]]
+title = "Introduction to Machine Learning with Python"
+author = "Andreas C. Müller, Sarah Guido"
+year = "2016"
+status = "To Read"
+notes = "Practical introduction to machine learning with Python."
+
+[[book]]
+title = "Quantum Computation and Quantum Information"
+author = "Michael A. Nielsen, Isaac L. Chuang"
+year = "2010"
+status = "Read"
+notes = "Quantum computing textbook."
+
+[[book]]
+title = "Think Stats: Exploratory Data Analysis"
+author = "Allen B. Downey"
+year = "2014"
+status = "To Read"
+notes = "Introduction to statistics using Python."
+
+[[book]]
+title = "Design Patterns: Elements of Reusable Object-Oriented Software"
+author = "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides"
+year = "1994"
+status = "50% Read"
+notes = "Timeless classic  on software design patterns."

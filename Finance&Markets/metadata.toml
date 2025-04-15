@@ -1,0 +1,64 @@
+# Finance & Markets Books Metadata
+
+[[book]]
+title = "Market Wizards"
+author = "Jack D. Schwager"
+year = "1989"
+status = "To Read"
+notes = "Interviews with top traders."
+
+[[book]]
+title = "Reminiscences of a Stock Operator"
+author = "Edwin Lefèvre"
+year = "1923"
+status = "To Read"
+notes = "Trading book."
+
+[[book]]
+title = "Margin of Safety"
+author = "Seth Klarman"
+year = "1991"
+status = "To Read"
+notes = "Guide to risk."
+
+[[book]]
+title = "Structured Finance"
+author = "Charles-Henri Larreur"
+year = "2018"
+status = "Read"
+notes = "Comprehensive guide to structured finance. (Wiley)"
+
+[[book]]
+title = "One Up On Wall Street"
+author = "Peter Lynch"
+year = "2000"
+status = "Read"
+notes = "A timeless classic investing book by legendary fund manager."
+
+[[book]]
+title = "The Snowball: Warren Buffett and the Business of Life"
+author = "Alice Schroeder"
+year = "2008"
+status = "Read"
+notes = "Biography of Warren Buffett."
+
+[[book]]
+title = "The Intelligent Investor (Latest Edition)"
+author = "Benjamin Graham"
+year = "Latest Edition"
+status = "Read"
+notes = "Value investing bible"
+
+[[book]]
+title = "The Black Swan"
+author = "Nassim Nicholas Taleb"
+year = "2007"
+status = "To Read"
+notes = "Explores the impact of rare and unpredictable events in finance and life."
+
+[[book]]
+title = "A Course in Derivative Securities: Introduction to Theory and Computation"
+author = "Kerry Back"
+year = "2005"
+status = "To Read"
+notes = "Introduction to the theory and computation of derivative securities."
